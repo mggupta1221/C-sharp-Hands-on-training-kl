@@ -1,0 +1,15 @@
+C:\Users\gupt_muk\source\repos\Bands\Inheritance in Real World Example\obj\Debug\net6.0\Inheritance in Real World Example.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\source\repos\Bands\Inheritance in Real World Example\obj\Debug\net6.0\Inheritance in Real World Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\source\repos\Bands\Inheritance in Real World Example\obj\Debug\net6.0\Inheritance in Real World Example.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Inheritance in Real World Example\obj\Debug\net6.0\Inheritance in Real World Example.AssemblyInfo.cs
+C:\Users\gupt_muk\source\repos\Bands\Inheritance in Real World Example\obj\Debug\net6.0\Inheritance in Real World Example.csproj.CoreCompileInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Inheritance in Real World Example\bin\Debug\net6.0\Inheritance in Real World Example.exe
+C:\Users\gupt_muk\source\repos\Bands\Inheritance in Real World Example\bin\Debug\net6.0\Inheritance in Real World Example.deps.json
+C:\Users\gupt_muk\source\repos\Bands\Inheritance in Real World Example\bin\Debug\net6.0\Inheritance in Real World Example.runtimeconfig.json
+C:\Users\gupt_muk\source\repos\Bands\Inheritance in Real World Example\bin\Debug\net6.0\Inheritance in Real World Example.dll
+C:\Users\gupt_muk\source\repos\Bands\Inheritance in Real World Example\bin\Debug\net6.0\Inheritance in Real World Example.pdb
+C:\Users\gupt_muk\source\repos\Bands\Inheritance in Real World Example\obj\Debug\net6.0\Inheritance in Real World Example.dll
+C:\Users\gupt_muk\source\repos\Bands\Inheritance in Real World Example\obj\Debug\net6.0\refint\Inheritance in Real World Example.dll
+C:\Users\gupt_muk\source\repos\Bands\Inheritance in Real World Example\obj\Debug\net6.0\Inheritance in Real World Example.pdb
+C:\Users\gupt_muk\source\repos\Bands\Inheritance in Real World Example\obj\Debug\net6.0\Inheritance in Real World Example.genruntimeconfig.cache
+C:\Users\gupt_muk\source\repos\Bands\Inheritance in Real World Example\obj\Debug\net6.0\ref\Inheritance in Real World Example.dll
