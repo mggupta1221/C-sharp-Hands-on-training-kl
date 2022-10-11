@@ -12,7 +12,7 @@ namespace Enumeration
 
 
 
-        //Enum is ValueTask type user defined datatype so it is declared in namespace,class or in structure
+        //Enum is Value type user defined datatype so it is declared in namespace,class or in structure
 
         //Syntax is
         //    [<modifiers>] enum <name>[:<type>]
@@ -144,8 +144,6 @@ namespace Enumeration
             Days d3 = Days.wednesday;
             //Console.WriteLine(d3); //prints wednesday
             //Console.WriteLine((int) d3); //prints78
-
-
             foreach (int i in Enum.GetValues(typeof(Days)))
             {
                 Console.WriteLine(i + ": " + (Days)i); //get values based on numbers like 1,22,23,78,99
@@ -156,11 +154,6 @@ namespace Enumeration
                 Console.WriteLine(i);
             }
 
-
         }
-
-
-
-
     }
 }
