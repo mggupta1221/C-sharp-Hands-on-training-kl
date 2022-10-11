@@ -1,0 +1,15 @@
+C:\Users\gupt_muk\source\repos\Bands\Enumeration\bin\Debug\net6.0\Enumeration.exe
+C:\Users\gupt_muk\source\repos\Bands\Enumeration\bin\Debug\net6.0\Enumeration.deps.json
+C:\Users\gupt_muk\source\repos\Bands\Enumeration\bin\Debug\net6.0\Enumeration.runtimeconfig.json
+C:\Users\gupt_muk\source\repos\Bands\Enumeration\bin\Debug\net6.0\Enumeration.dll
+C:\Users\gupt_muk\source\repos\Bands\Enumeration\bin\Debug\net6.0\Enumeration.pdb
+C:\Users\gupt_muk\source\repos\Bands\Enumeration\obj\Debug\net6.0\Enumeration.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\source\repos\Bands\Enumeration\obj\Debug\net6.0\Enumeration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\source\repos\Bands\Enumeration\obj\Debug\net6.0\Enumeration.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Enumeration\obj\Debug\net6.0\Enumeration.AssemblyInfo.cs
+C:\Users\gupt_muk\source\repos\Bands\Enumeration\obj\Debug\net6.0\Enumeration.csproj.CoreCompileInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Enumeration\obj\Debug\net6.0\Enumeration.dll
+C:\Users\gupt_muk\source\repos\Bands\Enumeration\obj\Debug\net6.0\refint\Enumeration.dll
+C:\Users\gupt_muk\source\repos\Bands\Enumeration\obj\Debug\net6.0\Enumeration.pdb
+C:\Users\gupt_muk\source\repos\Bands\Enumeration\obj\Debug\net6.0\Enumeration.genruntimeconfig.cache
+C:\Users\gupt_muk\source\repos\Bands\Enumeration\obj\Debug\net6.0\ref\Enumeration.dll
