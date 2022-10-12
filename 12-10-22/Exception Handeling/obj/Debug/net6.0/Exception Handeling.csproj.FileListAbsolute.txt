@@ -1,0 +1,15 @@
+C:\Users\gupt_muk\source\repos\Bands\Exception Handeling\obj\Debug\net6.0\Exception Handeling.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\source\repos\Bands\Exception Handeling\obj\Debug\net6.0\Exception Handeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\source\repos\Bands\Exception Handeling\obj\Debug\net6.0\Exception Handeling.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Exception Handeling\obj\Debug\net6.0\Exception Handeling.AssemblyInfo.cs
+C:\Users\gupt_muk\source\repos\Bands\Exception Handeling\obj\Debug\net6.0\Exception Handeling.csproj.CoreCompileInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Exception Handeling\bin\Debug\net6.0\Exception Handeling.exe
+C:\Users\gupt_muk\source\repos\Bands\Exception Handeling\bin\Debug\net6.0\Exception Handeling.deps.json
+C:\Users\gupt_muk\source\repos\Bands\Exception Handeling\bin\Debug\net6.0\Exception Handeling.runtimeconfig.json
+C:\Users\gupt_muk\source\repos\Bands\Exception Handeling\bin\Debug\net6.0\Exception Handeling.dll
+C:\Users\gupt_muk\source\repos\Bands\Exception Handeling\bin\Debug\net6.0\Exception Handeling.pdb
+C:\Users\gupt_muk\source\repos\Bands\Exception Handeling\obj\Debug\net6.0\Exception Handeling.dll
+C:\Users\gupt_muk\source\repos\Bands\Exception Handeling\obj\Debug\net6.0\refint\Exception Handeling.dll
+C:\Users\gupt_muk\source\repos\Bands\Exception Handeling\obj\Debug\net6.0\Exception Handeling.pdb
+C:\Users\gupt_muk\source\repos\Bands\Exception Handeling\obj\Debug\net6.0\Exception Handeling.genruntimeconfig.cache
+C:\Users\gupt_muk\source\repos\Bands\Exception Handeling\obj\Debug\net6.0\ref\Exception Handeling.dll
