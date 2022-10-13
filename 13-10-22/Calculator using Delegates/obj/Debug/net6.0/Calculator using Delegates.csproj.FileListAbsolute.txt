@@ -1,0 +1,15 @@
+C:\Users\gupt_muk\source\repos\Bands\Calculator using Delegates\obj\Debug\net6.0\Calculator using Delegates.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\source\repos\Bands\Calculator using Delegates\obj\Debug\net6.0\Calculator using Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\source\repos\Bands\Calculator using Delegates\obj\Debug\net6.0\Calculator using Delegates.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Calculator using Delegates\obj\Debug\net6.0\Calculator using Delegates.AssemblyInfo.cs
+C:\Users\gupt_muk\source\repos\Bands\Calculator using Delegates\obj\Debug\net6.0\Calculator using Delegates.csproj.CoreCompileInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Calculator using Delegates\bin\Debug\net6.0\Calculator using Delegates.exe
+C:\Users\gupt_muk\source\repos\Bands\Calculator using Delegates\bin\Debug\net6.0\Calculator using Delegates.deps.json
+C:\Users\gupt_muk\source\repos\Bands\Calculator using Delegates\bin\Debug\net6.0\Calculator using Delegates.runtimeconfig.json
+C:\Users\gupt_muk\source\repos\Bands\Calculator using Delegates\bin\Debug\net6.0\Calculator using Delegates.dll
+C:\Users\gupt_muk\source\repos\Bands\Calculator using Delegates\bin\Debug\net6.0\Calculator using Delegates.pdb
+C:\Users\gupt_muk\source\repos\Bands\Calculator using Delegates\obj\Debug\net6.0\Calculator using Delegates.dll
+C:\Users\gupt_muk\source\repos\Bands\Calculator using Delegates\obj\Debug\net6.0\refint\Calculator using Delegates.dll
+C:\Users\gupt_muk\source\repos\Bands\Calculator using Delegates\obj\Debug\net6.0\Calculator using Delegates.pdb
+C:\Users\gupt_muk\source\repos\Bands\Calculator using Delegates\obj\Debug\net6.0\Calculator using Delegates.genruntimeconfig.cache
+C:\Users\gupt_muk\source\repos\Bands\Calculator using Delegates\obj\Debug\net6.0\ref\Calculator using Delegates.dll
