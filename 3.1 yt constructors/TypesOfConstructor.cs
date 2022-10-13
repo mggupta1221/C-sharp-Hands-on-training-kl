@@ -15,9 +15,9 @@ namespace csharp_nit
 
 
         //parameterized explicit
-        //if a constructor method is defined with out any parameters we call
+        //if a constructor method is defined with any parameters we call
         //that as parameterized constructor and these constructors can be
-        //defined by the programmers only but never can be defined implicitly.|
+        //defined by the programmers only but never can be defined implicitly.
         public typesofconstructor(int i, int j)
         {
             console.writeline("explicit constructor called values are i=" + i + "j=" + j);

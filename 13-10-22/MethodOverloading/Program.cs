@@ -39,12 +39,5 @@ namespace MethodOverloading
             p.test(1, "str1");
             p.test("str2", 5);
         }
-
-
-
-
-
-
-
     }
 }
