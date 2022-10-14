@@ -28,7 +28,30 @@ namespace Override
 
         public static void Main()
         {
+            BaseClass b = new BaseClass();
+
+            BaseClass bd = new DerivedClass();
             DerivedClass d=new DerivedClass();
+
+            Console.WriteLine("Method1:No virtual and override keyword");
+            Console.WriteLine("Method:Using virtual and override keyword");
+            Console.WriteLine();
+
+
+
+            Console.WriteLine("Base Class instance caling methods");
+            b.Method1();
+            b.Method2();
+            Console.WriteLine();
+            Console.WriteLine();
+
+            Console.WriteLine("Base class instance refer to derived caling methods");
+            bd.Method1();
+            bd.Method2();
+            Console.WriteLine();
+            Console.WriteLine();
+
+            Console.WriteLine("derived class instance caling methods");
             d.Method1();
             d.Method2();
         }
