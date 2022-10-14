@@ -1,0 +1,15 @@
+C:\Users\gupt_muk\source\repos\Bands\Operator Overloading\bin\Debug\net6.0\Operator Overloading.exe
+C:\Users\gupt_muk\source\repos\Bands\Operator Overloading\bin\Debug\net6.0\Operator Overloading.deps.json
+C:\Users\gupt_muk\source\repos\Bands\Operator Overloading\bin\Debug\net6.0\Operator Overloading.runtimeconfig.json
+C:\Users\gupt_muk\source\repos\Bands\Operator Overloading\bin\Debug\net6.0\Operator Overloading.dll
+C:\Users\gupt_muk\source\repos\Bands\Operator Overloading\bin\Debug\net6.0\Operator Overloading.pdb
+C:\Users\gupt_muk\source\repos\Bands\Operator Overloading\obj\Debug\net6.0\Operator Overloading.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\source\repos\Bands\Operator Overloading\obj\Debug\net6.0\Operator Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\source\repos\Bands\Operator Overloading\obj\Debug\net6.0\Operator Overloading.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Operator Overloading\obj\Debug\net6.0\Operator Overloading.AssemblyInfo.cs
+C:\Users\gupt_muk\source\repos\Bands\Operator Overloading\obj\Debug\net6.0\Operator Overloading.csproj.CoreCompileInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Operator Overloading\obj\Debug\net6.0\Operator Overloading.dll
+C:\Users\gupt_muk\source\repos\Bands\Operator Overloading\obj\Debug\net6.0\refint\Operator Overloading.dll
+C:\Users\gupt_muk\source\repos\Bands\Operator Overloading\obj\Debug\net6.0\Operator Overloading.pdb
+C:\Users\gupt_muk\source\repos\Bands\Operator Overloading\obj\Debug\net6.0\Operator Overloading.genruntimeconfig.cache
+C:\Users\gupt_muk\source\repos\Bands\Operator Overloading\obj\Debug\net6.0\ref\Operator Overloading.dll
