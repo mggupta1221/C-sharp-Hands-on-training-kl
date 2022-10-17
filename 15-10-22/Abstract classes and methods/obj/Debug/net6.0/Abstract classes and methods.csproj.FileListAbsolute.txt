@@ -1,0 +1,15 @@
+C:\Users\gupt_muk\source\repos\Bands\Abstract classes and methods\bin\Debug\net6.0\Abstract classes and methods.exe
+C:\Users\gupt_muk\source\repos\Bands\Abstract classes and methods\bin\Debug\net6.0\Abstract classes and methods.deps.json
+C:\Users\gupt_muk\source\repos\Bands\Abstract classes and methods\bin\Debug\net6.0\Abstract classes and methods.runtimeconfig.json
+C:\Users\gupt_muk\source\repos\Bands\Abstract classes and methods\bin\Debug\net6.0\Abstract classes and methods.dll
+C:\Users\gupt_muk\source\repos\Bands\Abstract classes and methods\bin\Debug\net6.0\Abstract classes and methods.pdb
+C:\Users\gupt_muk\source\repos\Bands\Abstract classes and methods\obj\Debug\net6.0\Abstract classes and methods.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\source\repos\Bands\Abstract classes and methods\obj\Debug\net6.0\Abstract classes and methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\source\repos\Bands\Abstract classes and methods\obj\Debug\net6.0\Abstract classes and methods.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Abstract classes and methods\obj\Debug\net6.0\Abstract classes and methods.AssemblyInfo.cs
+C:\Users\gupt_muk\source\repos\Bands\Abstract classes and methods\obj\Debug\net6.0\Abstract classes and methods.csproj.CoreCompileInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Abstract classes and methods\obj\Debug\net6.0\Abstract classes and methods.dll
+C:\Users\gupt_muk\source\repos\Bands\Abstract classes and methods\obj\Debug\net6.0\refint\Abstract classes and methods.dll
+C:\Users\gupt_muk\source\repos\Bands\Abstract classes and methods\obj\Debug\net6.0\Abstract classes and methods.pdb
+C:\Users\gupt_muk\source\repos\Bands\Abstract classes and methods\obj\Debug\net6.0\Abstract classes and methods.genruntimeconfig.cache
+C:\Users\gupt_muk\source\repos\Bands\Abstract classes and methods\obj\Debug\net6.0\ref\Abstract classes and methods.dll
