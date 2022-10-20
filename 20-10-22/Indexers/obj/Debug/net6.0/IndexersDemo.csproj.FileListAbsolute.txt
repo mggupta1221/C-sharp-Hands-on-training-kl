@@ -1,0 +1,15 @@
+C:\Users\gupt_muk\source\repos\Bands\Indexers\bin\Debug\net6.0\IndexersDemo.exe
+C:\Users\gupt_muk\source\repos\Bands\Indexers\bin\Debug\net6.0\IndexersDemo.deps.json
+C:\Users\gupt_muk\source\repos\Bands\Indexers\bin\Debug\net6.0\IndexersDemo.runtimeconfig.json
+C:\Users\gupt_muk\source\repos\Bands\Indexers\bin\Debug\net6.0\IndexersDemo.dll
+C:\Users\gupt_muk\source\repos\Bands\Indexers\bin\Debug\net6.0\IndexersDemo.pdb
+C:\Users\gupt_muk\source\repos\Bands\Indexers\obj\Debug\net6.0\IndexersDemo.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\source\repos\Bands\Indexers\obj\Debug\net6.0\IndexersDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\source\repos\Bands\Indexers\obj\Debug\net6.0\IndexersDemo.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Indexers\obj\Debug\net6.0\IndexersDemo.AssemblyInfo.cs
+C:\Users\gupt_muk\source\repos\Bands\Indexers\obj\Debug\net6.0\IndexersDemo.csproj.CoreCompileInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Indexers\obj\Debug\net6.0\IndexersDemo.dll
+C:\Users\gupt_muk\source\repos\Bands\Indexers\obj\Debug\net6.0\refint\IndexersDemo.dll
+C:\Users\gupt_muk\source\repos\Bands\Indexers\obj\Debug\net6.0\IndexersDemo.pdb
+C:\Users\gupt_muk\source\repos\Bands\Indexers\obj\Debug\net6.0\IndexersDemo.genruntimeconfig.cache
+C:\Users\gupt_muk\source\repos\Bands\Indexers\obj\Debug\net6.0\ref\IndexersDemo.dll
