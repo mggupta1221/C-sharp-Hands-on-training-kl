@@ -1,0 +1,15 @@
+C:\Users\gupt_muk\source\repos\Bands\Array\obj\Debug\net6.0\BusRouteApplication.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\source\repos\Bands\Array\obj\Debug\net6.0\BusRouteApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\source\repos\Bands\Array\obj\Debug\net6.0\BusRouteApplication.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Array\obj\Debug\net6.0\BusRouteApplication.AssemblyInfo.cs
+C:\Users\gupt_muk\source\repos\Bands\Array\obj\Debug\net6.0\BusRouteApplication.csproj.CoreCompileInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\Array\bin\Debug\net6.0\BusRouteApplication.exe
+C:\Users\gupt_muk\source\repos\Bands\Array\bin\Debug\net6.0\BusRouteApplication.deps.json
+C:\Users\gupt_muk\source\repos\Bands\Array\bin\Debug\net6.0\BusRouteApplication.runtimeconfig.json
+C:\Users\gupt_muk\source\repos\Bands\Array\bin\Debug\net6.0\BusRouteApplication.dll
+C:\Users\gupt_muk\source\repos\Bands\Array\bin\Debug\net6.0\BusRouteApplication.pdb
+C:\Users\gupt_muk\source\repos\Bands\Array\obj\Debug\net6.0\BusRouteApplication.dll
+C:\Users\gupt_muk\source\repos\Bands\Array\obj\Debug\net6.0\refint\BusRouteApplication.dll
+C:\Users\gupt_muk\source\repos\Bands\Array\obj\Debug\net6.0\BusRouteApplication.pdb
+C:\Users\gupt_muk\source\repos\Bands\Array\obj\Debug\net6.0\BusRouteApplication.genruntimeconfig.cache
+C:\Users\gupt_muk\source\repos\Bands\Array\obj\Debug\net6.0\ref\BusRouteApplication.dll
