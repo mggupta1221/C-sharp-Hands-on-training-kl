@@ -12,14 +12,14 @@ namespace BusRouteApplication
         public static void Main()
         {
 
-          /*  Dictionary<int,BusRoute> allRoutes = BusRouteRepository.InitializeRoutes();      //or       //var  allRoutes = BusRouteRepository.InitializeRoutes();
+         var  allRoutes = BusRouteRepository.InitializeRoutes();
  
             Console.WriteLine($"Which Route no. do you want to look up?");
             int number=int.Parse(Console.ReadLine());
              //   var answer=allRoutes[number]; //searches the key in dictionary and retuns it if found otherwise throws an exception
 
-              //  bool success=allRoutes.ContainsKey(number); //check is specific is present in dictionary or not
-                bool successSorted=allRoutes.ContainsKey(number); //cific key is present in dictionary or not
+               bool success=allRoutes.ContainsKey(number); //check if specific key is present in dictionary or not
+               // bool successSorted=allRoutes.ContainsKey(number); //cific key is present in dictionary or not
 
 
              //   bool success1=allRoutes.TryGetValue(number, out BusRoute answer); //checks number ==key present and if present returns the answer
@@ -37,24 +37,27 @@ namespace BusRouteApplication
          
             Console.WriteLine();
             //enumerating through dictionary
+            Console.WriteLine("to get only keys using .Keys Peoperty");
 
-            foreach(var route in allRoutes.Keys)    //to get only keys
+            foreach (var route in allRoutes.Keys)    //to get only keys
             {
                 Console.WriteLine(route);
             }
 
             Console.WriteLine();
+
+            Console.WriteLine("to get only values using .Values property");
             foreach(var route in allRoutes.Values)    //to get only values
             {
                 Console.WriteLine(route);
             }
             Console.WriteLine();
-            foreach(var route in allRoutes)    //to get only keys,values
+            foreach(var route in allRoutes)    //to get keys,values
             {
                 Console.WriteLine(route);
 
             }
-            */
+            
 
 
 
@@ -133,7 +136,7 @@ namespace BusRouteApplication
 
 
 
-            SortedList<int,BusRoute> allRoutesSortedList = BusRouteRepository.InitializeRoutes();      //or       //var  allRoutesSorted = BusRouteRepository.InitializeRoutes();
+          /*  SortedList<int,BusRoute> allRoutesSortedList = BusRouteRepository.InitializeRoutes();      //or       //var  allRoutesSorted = BusRouteRepository.InitializeRoutes();
             Console.WriteLine($"Which Route no. do you want to look up?");
             int number=int.Parse(Console.ReadLine());
              //   var answer=allRoutesSorted[number]; //searches the key in dictionary and retuns it if found otherwise throws an exception
@@ -164,7 +167,9 @@ namespace BusRouteApplication
             {
                 Console.WriteLine(route);
 
-            }            
+            }  
+          
+            */
         }         
     }
 }

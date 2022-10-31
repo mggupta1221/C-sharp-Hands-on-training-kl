@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gupt_muk\\source\\repos\\Bands\\Array\\BusRouteApplication.csproj": {}
+    "C:\\Users\\gupt_muk\\Desktop\\C-sharp-Hands-on-training-kl\\21-10-22\\Dictionary sortedDictionary sortedList\\BusRouteApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gupt_muk\\source\\repos\\Bands\\Array\\BusRouteApplication.csproj": {
+    "C:\\Users\\gupt_muk\\Desktop\\C-sharp-Hands-on-training-kl\\21-10-22\\Dictionary sortedDictionary sortedList\\BusRouteApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gupt_muk\\source\\repos\\Bands\\Array\\BusRouteApplication.csproj",
+        "projectUniqueName": "C:\\Users\\gupt_muk\\Desktop\\C-sharp-Hands-on-training-kl\\21-10-22\\Dictionary sortedDictionary sortedList\\BusRouteApplication.csproj",
         "projectName": "BusRouteApplication",
-        "projectPath": "C:\\Users\\gupt_muk\\source\\repos\\Bands\\Array\\BusRouteApplication.csproj",
+        "projectPath": "C:\\Users\\gupt_muk\\Desktop\\C-sharp-Hands-on-training-kl\\21-10-22\\Dictionary sortedDictionary sortedList\\BusRouteApplication.csproj",
         "packagesPath": "C:\\Users\\gupt_muk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gupt_muk\\source\\repos\\Bands\\Array\\obj\\",
+        "outputPath": "C:\\Users\\gupt_muk\\Desktop\\C-sharp-Hands-on-training-kl\\21-10-22\\Dictionary sortedDictionary sortedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
