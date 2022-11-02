@@ -34,7 +34,7 @@ namespace Overloading_vs_Overriding
         }
 
 
-        public virtual void MethodToBeOverriddenWithVirtual() //this method is overridden if the base class method has override keyword
+        public virtual void MethodToBeOverriddenWithVirtual() //this method is overridden if the child class method has override keyword
         {
             Console.WriteLine("Parent Method virtual used");
         }
@@ -52,23 +52,23 @@ namespace Overloading_vs_Overriding
 
     }
 
-    public class BaseProgram : Program
+    public class ChildProgram : Program
     {
 
         public void MethodToBeOverloaded(int num1, double num2)
         {
-            Console.WriteLine("Base Method parameter:int,double");
+            Console.WriteLine("Child Method parameter:int,double");
         }
 
         public override void MethodToBeOverriddenWithVirtual() //Overridden Method
         {
-            Console.WriteLine("Base Method virtual And override used");
+            Console.WriteLine("Child Method virtual And override used");
         }
 
 
         public void MethodToBeOverriddenWithoutVirtual()
         {
-            Console.WriteLine("Base Method no virtual");
+            Console.WriteLine("Child Method no virtual");
         }
         public static void Main()
         {
